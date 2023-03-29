@@ -1,3 +1,7 @@
 ### Hello!👋 My name is SeungChae Na. 
 
-#### interested area
+#### Interested area
+#### - Smart Factory
+#### - Clustering
+#### - Anomaly Detection
+#### - Imbalanced Data Learning
