@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello!👋 My name is SeungChae Na. 
+### My areas of interest are smart factories, clustering, anomaly detection, and imbalanced data learning, and I am studying them diligently.
 
 <!--
 **Naseungchae/Naseungchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
